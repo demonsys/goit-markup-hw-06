@@ -515,7 +515,7 @@ address .contacts {
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.subscribe-buttonn:hover,
+.subscribe-button:hover,
 .subscribe-button:focus {
   background-color: #188ce8;
 }
